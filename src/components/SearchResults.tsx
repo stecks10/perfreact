@@ -49,5 +49,5 @@ export function SearchResults({ results }: SearchResultsProps) {
  *
  * 1. Calculos pesados
  * 2. Igualdade referencial ( quando a gente repassa aquela informação a um componente filho)
- *
+ * 3.
  */
